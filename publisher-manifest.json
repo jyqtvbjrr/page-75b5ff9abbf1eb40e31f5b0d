@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4a442b5e54d7225178f80cdb",
+  "owner": "jyqtvbjrr",
+  "repo": "page-75b5ff9abbf1eb40e31f5b0d",
+  "title": "青云梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "75b5ff9abbf1eb40e31f5b0d",
+      "a": "青云梯",
+      "b": "",
+      "entity": "青云梯",
+      "brand": "青云梯",
+      "separator": "",
+      "path": "index.html",
+      "hash": "dab4ed59e1afb5b665bef86dab6f0c2bd6d1e1441e44e68ace5420c921e90b68",
+      "content": {
+        "keyword1": "青云梯",
+        "keyword2": "",
+        "primary_entity": "青云梯",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "青云梯围绕机场订阅与VPN梯子客户端选择，说明网络加速使用场景、导入步骤与常见问题，便于对照完成客户端下载与订阅配置。",
+          "AI_DESCRIPTION": "青云梯围绕机场订阅与VPN梯子客户端选择，说明网络加速使用场景、导入步骤与常见问题，便于对照完成客户端下载与订阅配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#06121c;color:#e6f3f7;line-height:1.65;font-size:16px}header{background:#081828;border-bottom:1px solid #16344a}.wrap{max-width:860px;margin:0 auto;padding:14px 16px}.nav{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center}.brand{font-weight:700;color:#2ee6d6;margin-right:6px;letter-spacing:.04em}.nav a{color:#9ec4d4;text-decoration:none;font-size:14px}main{padding:10px 0 28px}h1{font-size:1.72rem;line-height:1.3;margin:6px 0 10px;color:#f4fcff}h2{font-size:1.18rem;margin:26px 0 10px;color:#2ee6d6;border-left:3px solid #2ee6d6;padding-left:10px}h3{font-size:1rem;margin:12px 0 6px;color:#b8e8ee}p{margin:0 0 12px;color:#c5dce6}.kicker{font-size:.78rem;color:#2ee6d6;letter-spacing:.14em}.lead{color:#d5eaf2}.cards,.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(148px,1fr));gap:10px;margin:10px 0 14px}.card,.step{background:#0c2236;border:1px solid #18425c;border-radius:10px;padding:12px}.card h3,.step h3{margin:0 0 6px;color:#2ee6d6;font-size:.95rem}.card p,.step p{margin:0;font-size:.88rem;color:#a9c5d2}.step{border-top:2px solid #2ee6d6}.step b{display:block;color:#7eeadf;font-size:.82rem;margin-bottom:4px}.muted{color:#8aa8b8;font-size:.92rem}details{background:#0c2236;border:1px solid #18425c;border-radius:8px;padding:10px 12px;margin:0 0 8px}summary{color:#d8f8f4;font-weight:600}details p{margin:8px 0 0;font-size:.92rem}footer{margin-top:28px;padding:18px 0;border-top:1px solid #16344a;color:#7e9aaa;font-size:.85rem}</style><header><div class=\"wrap nav\"><span class=\"brand\">青云梯</span><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#clients\">客户端</a><a href=\"#guide\">说明</a><a href=\"#plans\">订阅</a><a href=\"#faq\">问答</a></div></header><main class=\"wrap\"><p class=\"kicker\">机场订阅 · 客户端选择</p><h1>青云梯</h1><p class=\"lead\" id=\"intro\">青云梯把客户端选择放在使用流程的中心：先按设备匹配工具，再导入机场订阅，最后按场景切换策略。本页用紧凑卡片对照场景、步骤与问答，方便在手机上快速完成 VPN 梯子与网络加速的准备工作。</p><h2>品牌简介</h2><p>青云梯围绕机场订阅、VPN 梯子与加速器客户端展开说明，帮助需要跨境访问、资料查阅或日常加速的用户理清「下什么、怎么导、何时开」。页面不罗列未经验证的节点或速度承诺，而是把可读的操作路径写清楚，让订阅与客户端各司其职。</p><p class=\"muted\">选择工具时以系统兼容、订阅格式和规则可调为优先；导入后以实际连通结果为准。</p><h2 id=\"scenes\">使用场景</h2><div class=\"cards\"><article class=\"card\"><h3>跨境协作</h3><p>开会、文档与代码仓库跨区域访问时，用规则分流降低干扰。</p></article><article class=\"card\"><h3>公开资料</h3><p>查阅论文、文档与公开站点，按域名走加速通道即可。</p></article><article class=\"card\"><h3>内容浏览</h3><p>流媒体与资讯站点对延迟敏感，可单独分组并随时切换。</p></article><article class=\"card\"><h3>差旅网络</h3><p>酒店或公共 Wi-Fi 下开启系统代理，减少明文流量暴露。</p></article><article class=\"card\"><h3>多端同步</h3><p>电脑与手机使用同一订阅，按客户端能力分别配置。</p></article></div><h2 id=\"clients\">客户端选择</h2><p>青云梯强调先选客户端再谈加速。Windows、macOS 适合功能完整的图形客户端；Android 与 iOS 侧重稳定导入与分应用代理；路由器则适合全家设备共享。核对订阅协议（如常见的 Clash / SIP008 等格式）后再安装，避免下错架构。</p><div class=\"cards\"><article class=\"card\"><h3>系统匹配</h3><p>先确认桌面、移动还是路由环境，再挑对应安装包。</p></article><article class=\"card\"><h3>导入方式</h3><p>支持订阅链接、二维码或本地文件的客户端更省事。</p></article><article class=\"card\"><h3>规则能力</h3><p>需要分流、绕过局域网或分应用时，选规则可编辑的工具。</p></article><article class=\"card\"><h3>更新习惯</h3><p>能一键更新订阅与内核的客户端，长期维护成本更低。</p></article></div>{{CLIENTS_HTML}}<h2 id=\"guide\">操作说明</h2><div class=\"steps\"><article class=\"step\"><b>步骤 01</b><h3>准备订阅</h3><p>复制机场订阅地址或配置文件，勿在不可信聊天中转发。</p></article><article class=\"step\"><b>步骤 02</b><h3>安装客户端</h3><p>按上方模块选择与系统匹配的客户端，安装后勿开启不明插件。</p></article><article class=\"step\"><b>步骤 03</b><h3>导入更新</h3><p>粘贴订阅并更新节点列表，确认时间与系统时区正确。</p></article><article class=\"step\"><b>步骤 04</b><h3>选择策略</h3><p>按需使用规则分流或全局模式，优先测试常用网站。</p></article><article class=\"step\"><b>步骤 05</b><h3>日常维护</h3><p>定期更新客户端与订阅；不用时关闭隧道以节省电量。</p></article></div><h2 id=\"plans\">订阅方案</h2><p>套餐与价格由系统统一注入，以下模块展示当前可订阅项。请勿将口头报价与页面数字混用。</p>{{PLANS_HTML}}<h2 id=\"faq\">常见问题</h2><details><summary>青云梯是什么？</summary><p>青云梯是面向机场订阅与 VPN 梯子客户端选择的主题站点，说明网络加速的使用场景、导入步骤和注意事项。具体可用节点与线路以你实际持有的订阅为准。</p></details><details><summary>怎样为青云梯选择客户端？</summary><p>先锁定操作系统，再看该工具是否支持你的订阅格式、系统代理/VPN 模式以及规则分流。桌面端可优先功能完整的图形界面，移动端优先导入稳定、耗电可控的应用。</p></details><details><summary>机场订阅导入失败怎么办？</summary><p>检查链接是否完整、客户端是否支持该协议，并校对设备时间。可尝试更换网络后再更新订阅。若仍失败，改用配置文件导入，避免多次粘贴残缺字符。</p></details><details><summary>青云梯官网如何理解客户端下载？</summary><p>客户端下载应来自本页注入的真实链接或你信任的来源。核对应用名称与系统架构后再安装。不要在来路不明的网盘中寻找「破解加速器」。</p></details><details><summary>哪些场景适合开全局，哪些适合分流？</summary><p>临时访问单一境外站点可用全局；日常办公、国内应用并行时用规则分流更稳。流媒体可单独分组。公共网络下建议开启系统隧道，降低明文风险。</p></details><details><summary>使用网络加速需要注意什么？</summary><p>遵守所在地法律法规与服务条款，仅用于正当访问。及时更新客户端，不随意安装不明规则集。出现异常时先切换节点、检查订阅是否过期，再考虑重装。</p></details></main><footer class=\"wrap\">青云梯 · 机场订阅与客户端说明页。链接仅使用页内锚点，套餐与客户端模块由程序注入。</footer>",
+          "hash": "322881b5d4aa8526a39bb5f519393a1a4623c8f32fc49fd726137c076746dbe2",
+          "seo": {
+            "title": "青云梯官网｜VPN梯子网络加速与客户端下载",
+            "keywords": "青云梯,青云梯VPN,青云梯机场,梯子,网络加速,加速器,客户端下载,机场订阅,官网",
+            "description": "青云梯围绕机场订阅与VPN梯子客户端选择，说明网络加速使用场景、导入步骤与常见问题，便于对照完成客户端下载与订阅配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "flahfwv.cn",
+    "host": "zh.flahfwv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "flahfwv.cn",
+      "url": "https://flahfwv.cn/",
+      "label": "KyCloud",
+      "apex": "flahfwv.cn",
+      "kind": null,
+      "identity": "ynw8vu9/page-43ebc355c2c8f43bae2da7ed"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3e12a0872f95979ca1f3c92afa2cbca4d8e9d4ed74c9c1c1ba063238f76d70de",
+    "sitemap.xml": "f4cd410f7d1f88245e4707bebbfc870229f962326d9d49c6664df8515eedcc92",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c8898e984bcd538a10c27ee7877f51ecdc0a46c1fe7a5a9926bfa1d6cf5eb35b",
+    "robots.txt": "9e7ee28a31dcacb73e0c9aa89b49132cff77316d7f387651c959b578f98896c6",
+    "5ad5157d9c1bacadef14a3ae809e962e.txt": "1f81dad36463df1fd11f82ff5e830f3aaa59fbb936d7f3bf5f3f0d6b08ff59b9"
+  },
+  "revision": "568587c13f3269f1a47dd39c23049f14050bf697b9c618ce3b348d4a899eeb31"
+}
